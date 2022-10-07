@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul a.k.a. @LoneWolf24
+- 👋 Hi, I’m Abdulaziz a.k.a. @ArT3MiS
 - 👀 I’m interested in Python & Web Development
 - 🌱 I’m currently learning DJango & React
 - 💞️ I’m looking to collaborate on any python projects
