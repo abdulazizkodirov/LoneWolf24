@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulaziz a.k.a. @ArT3MiS
+- 👋 Hi, I’m Abdulaziz
 - 👀 I’m interested in Python & Web Development
 - 🌱 I’m currently learning DJango & React
 - 💞️ I’m looking to collaborate on any python projects
